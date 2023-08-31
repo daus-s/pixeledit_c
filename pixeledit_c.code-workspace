@@ -1,0 +1,17 @@
+{
+    "folders": [
+      {
+        "path": "."
+      }
+    ],
+    "settings": {
+      "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+      // Other workspace-specific settings
+    },
+    "extensions": {
+      "recommendations": [
+        "ms-vscode.cpptools",
+        // Other extensions you want to recommend
+      ]
+    }
+  }
